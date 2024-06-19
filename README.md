@@ -6,7 +6,7 @@ A tiny Typescript-ready React widget for [Drift.com](https://www.drift.com)'s ch
 
 ## Why?
 
-The go-to widget for Drift integration is [react-driftjs](https://www.npmjs.com/package/react-driftjs). This widget hasn't been updated in years and has React 16 as a peer dependency which can prevent deployment. This projects owes a bunch of its code to the original package. 🫡
+The go-to widget for Drift integration is [react-driftjs](https://www.npmjs.com/package/react-driftjs). This widget hasn't been updated in years and has React 16 as a peer dependency which can prevent deployment. This project owes a bunch of its code to the original package. 🫡
 
 ## Setup
 
